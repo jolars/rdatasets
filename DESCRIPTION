@@ -14,3 +14,7 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jolars/rdatasets
 BugReports: https://github.com/jolars/rdatasets/issues
+RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)
+Imports: 
+    Matrix
