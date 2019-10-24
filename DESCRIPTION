@@ -1,0 +1,14 @@
+Package: rdatasets
+Title: Neatly Formattered Datasets
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Johan",
+           family = "Larsson",
+           role = c("aut", "cre"),
+           email = "mail@larssonjohan.com",
+           comment = c(ORCID = "0000-0002-4029-5945"))
+Description: A bunch of datasets formatted to be straightforward to use for
+    testing out statistical models, particularly when it comes to benchmarking.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
