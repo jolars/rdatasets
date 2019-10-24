@@ -11,7 +11,7 @@ download.file(
 d <- scan(data, sep = " ")
 
 x <- matrix(d, nrow = 100, byrow = TRUE)[, 1:10000]
-x <- as(x, "sparseMatrix")
+x <- Matrix(x, sparse = TRUE)
 
 download.file(
   "https://statweb.stanford.edu/~tibs/strong/realdata/arcene_train.labels",
