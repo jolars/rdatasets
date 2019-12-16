@@ -12,6 +12,6 @@ https://statweb.stanford.edu/~tibs/strong/
 golub
 }
 \description{
-Gene expression data set
+Gene expression data set. Binary response.
 }
 \keyword{datasets}

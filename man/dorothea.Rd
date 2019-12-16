@@ -14,7 +14,7 @@ https://statweb.stanford.edu/~tibs/strong/
 dorothea
 }
 \description{
-Description taken from UCI:
+Binary response data set.
 }
 \section{UCI abstract}{
  DOROTHEA is a drug discovery dataset. Chemical

@@ -14,7 +14,7 @@ https://archive.ics.uci.edu/ml/datasets/Arcene
 arcene
 }
 \description{
-Arcene
+Binary response data set.
 }
 \section{UCI abstract}{
  ARCENE's task is to distinguish cancer

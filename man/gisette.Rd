@@ -14,7 +14,7 @@ https://archive.ics.uci.edu/ml/datasets/Gisette
 gisette
 }
 \description{
-Gisette
+Binary response data set.
 }
 \section{UCI abstract}{
  GISETTE is a handwritten digit recognition problem.
