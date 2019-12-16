@@ -3,7 +3,7 @@
 \docType{data}
 \name{arcene}
 \alias{arcene}
-\title{Arcene}
+\title{arcene}
 \format{An object of class \code{list} of length 2.}
 \source{
 https://statweb.stanford.edu/~tibs/strong/

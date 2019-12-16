@@ -3,7 +3,7 @@
 \docType{data}
 \name{news20}
 \alias{news20}
-\title{News20}
+\title{news20}
 \format{An object of class \code{list} of length 2.}
 \source{
 Ken Lang. Newsweeder: Learning to filter netnews.

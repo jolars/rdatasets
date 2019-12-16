@@ -1,4 +1,4 @@
-#' Arcene
+#' arcene
 #'
 #' Binary response data set.
 #'
@@ -12,14 +12,14 @@
 #' @source https://archive.ics.uci.edu/ml/datasets/Arcene
 "arcene"
 
-#' Golub
+#' golub
 #'
 #' Gene expression data set. Binary response.
 #'
 #' @source https://statweb.stanford.edu/~tibs/strong/
 "golub"
 
-#' Dorothea
+#' dorothea
 #'
 #' Binary response data set.
 #'
@@ -33,7 +33,7 @@
 #' @source https://statweb.stanford.edu/~tibs/strong/
 "dorothea"
 
-#' Gisette
+#' gisette
 #'
 #' Binary response data set.
 #'
@@ -45,7 +45,7 @@
 #' @source https://archive.ics.uci.edu/ml/datasets/Gisette
 "gisette"
 
-#' News20
+#' news20
 #'
 #' Multi-Class training data set from the LIBSVM database
 #'
@@ -55,12 +55,24 @@
 #' @source https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html
 "news20"
 
-#' E2006-tfidf
+#' cpusmall
 #'
-#' Regression data set from LIBSVM. Only the test data set
-#' is used here. From LIBSVM: "Features include the volitility in the past 12
-#' months and tf-idf of unigrams."
+#' Regression data set from the LIBSVM database
 #'
-#' @source http://www.ark.cs.cmu.edu/10K/
+#' @source http://www.cs.toronto.edu/~delve/data/datasets.html
 #' @source https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression.html
-"e2006_tfidf"
+"cpusmall"
+
+#' zipcode
+#'
+#' Multi-class training data set.
+#'
+#' @section From source: Normalized handwritten digits, automatically
+#' scanned from envelopes by the U.S. Postal Service. The original
+#' scanned digits are binary and of different sizes and orientations; the
+#' images  here have been deslanted and size normalized, resulting
+#' in 16 x 16 grayscale images (Le Cun et al., 1990).
+#'
+#' @source https://web.stanford.edu/~hastie/ElemStatLearn/
+#' @source https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression.html
+"zipcode"

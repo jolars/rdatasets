@@ -1,5 +1,3 @@
-## code to prepare `sector` dataset goes here
-
 library(e1071)
 library(SparseM)
 library(Matrix)

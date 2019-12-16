@@ -3,7 +3,7 @@
 \docType{data}
 \name{dorothea}
 \alias{dorothea}
-\title{Dorothea}
+\title{dorothea}
 \format{An object of class \code{list} of length 2.}
 \source{
 https://archive.ics.uci.edu/ml/datasets/Dorothea
