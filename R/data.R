@@ -76,3 +76,14 @@
 #' @source https://web.stanford.edu/~hastie/ElemStatLearn/
 #' @source https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression.html
 "zipcode"
+
+#' physician
+#'
+#' Count outcome data set related to a paper by Deb et al. The variable
+#' `ofp` (physician office visits) have been used as the outcome here.
+#'
+#' @source Deb, Partha, and Pravin K. Trivedi. "Demand for Medical Care by
+#'   the Elderly: A Finite Mixture Approach." Journal of Applied Econometrics,
+#'   vol. 12, no. 3, 1997, pp. 313–336. JSTOR, www.jstor.org/stable/2285252.
+#' @source https://www.jstatsoft.org/article/view/v027i08
+"physician"
