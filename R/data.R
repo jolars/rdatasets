@@ -38,7 +38,7 @@
 #' Binary response data set.
 #'
 #' @section UCI abstract: GISETTE is a handwritten digit recognition problem.
-#' The problem is to separate the highly confusible digits '4' and '9'. This
+#' The problem is to separate the highly confusable digits '4' and '9'. This
 #' dataset is one of five datasets of the NIPS 2003 feature selection challenge.
 #'
 #' @source https://statweb.stanford.edu/~tibs/strong/

@@ -4,9 +4,9 @@
 \name{rdatasets-package}
 \alias{rdatasets}
 \alias{rdatasets-package}
-\title{rdatasets: Neatly Formattered Datasets}
+\title{rdatasets: Datasets for R}
 \description{
-A bunch of datasets formatted to be straightforward to use for
+Several datasets formatted for straightforward use in
     testing out statistical models, particularly when it comes to benchmarking.
 }
 \seealso{
@@ -18,7 +18,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Johan Larsson \email{mail@larssonjohan.com} (\href{https://orcid.org/0000-0002-4029-5945}{ORCID})
+\strong{Maintainer}: Johan Larsson \email{johanlarsson@outlook.com} (\href{https://orcid.org/0000-0002-4029-5945}{ORCID})
 
 }
 \keyword{internal}
