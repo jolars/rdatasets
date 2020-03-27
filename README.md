@@ -5,8 +5,8 @@
 
 <!-- badges: start -->
 
-[![Travis build
-status](https://travis-ci.org/jolars/rdatasets.svg?branch=master)](https://travis-ci.org/jolars/rdatasets)
+[![R CMD Check via
+{tic}](https://github.com/jolars/rdatasets/workflows/R%20CMD%20Check%20via%20%7Btic%7D/badge.svg?branch=master)](https://github.com/jolars/rdatasets/actions)
 <!-- badges: end -->
 
 A range of datasets for use in R.
