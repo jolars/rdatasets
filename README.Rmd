@@ -23,9 +23,8 @@ A range of datasets for use in R.
 
 ## Installation
 
-You can install the development version from [GitHub](https://github.com/) with:
+You can install the package from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
 devtools::install_github("jolars/rdatasets")
 ```
