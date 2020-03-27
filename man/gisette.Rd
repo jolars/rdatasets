@@ -4,7 +4,9 @@
 \name{gisette}
 \alias{gisette}
 \title{gisette}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 https://statweb.stanford.edu/~tibs/strong/
 

@@ -4,7 +4,9 @@
 \name{dorothea}
 \alias{dorothea}
 \title{dorothea}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 https://archive.ics.uci.edu/ml/datasets/Dorothea
 

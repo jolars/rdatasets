@@ -4,7 +4,9 @@
 \name{cpusmall}
 \alias{cpusmall}
 \title{cpusmall}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 http://www.cs.toronto.edu/~delve/data/datasets.html
 

@@ -1,20 +1,20 @@
 Package: rdatasets
 Title: Neatly Formattered Datasets
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person(given = "Johan",
            family = "Larsson",
            role = c("aut", "cre"),
-           email = "mail@larssonjohan.com",
+           email = "johanlarsson@outlook.com",
            comment = c(ORCID = "0000-0002-4029-5945"))
-Description: A bunch of datasets formatted to be straightforward to use for
+Description: Several datasets formatted for straightforward use in
     testing out statistical models, particularly when it comes to benchmarking.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jolars/rdatasets
 BugReports: https://github.com/jolars/rdatasets/issues
-RoxygenNote: 7.0.2
+RoxygenNote: 7.1.0
 Roxygen: list(markdown = TRUE)
-Imports: 
-    Matrix
+Depends: R (>= 3.30)
+Imports: Matrix

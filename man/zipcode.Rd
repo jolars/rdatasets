@@ -4,7 +4,9 @@
 \name{zipcode}
 \alias{zipcode}
 \title{zipcode}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 https://web.stanford.edu/~hastie/ElemStatLearn/
 

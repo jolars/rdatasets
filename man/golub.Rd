@@ -4,7 +4,9 @@
 \name{golub}
 \alias{golub}
 \title{golub}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 https://statweb.stanford.edu/~tibs/strong/
 }

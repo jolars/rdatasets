@@ -4,7 +4,9 @@
 \name{news20}
 \alias{news20}
 \title{news20}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 Ken Lang. Newsweeder: Learning to filter netnews.
 In Proceedings of the Twelfth International Conference on Machine

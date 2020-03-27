@@ -4,7 +4,9 @@
 \name{physician}
 \alias{physician}
 \title{physician}
-\format{An object of class \code{list} of length 2.}
+\format{
+An object of class \code{list} of length 2.
+}
 \source{
 Deb, Partha, and Pravin K. Trivedi. "Demand for Medical Care by
 the Elderly: A Finite Mixture Approach." Journal of Applied Econometrics,
