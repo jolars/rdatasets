@@ -7,3 +7,7 @@
 ^docs$
 ^pkgdown$
 ^LICENSE\.md$
+^\.ccache$
+^\.github$
+^clang-.*
+^tic\.R$
