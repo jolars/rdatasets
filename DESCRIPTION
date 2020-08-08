@@ -11,7 +11,7 @@ Description: Several datasets formatted for straightforward use in
     testing out statistical models, particularly when it comes to benchmarking.
 License: MIT + file LICENSE
 Encoding: UTF-8
-LazyData: true
+LazyData: false 
 URL: https://github.com/jolars/rdatasets
 BugReports: https://github.com/jolars/rdatasets/issues
 RoxygenNote: 7.1.0
