@@ -6,6 +6,8 @@
 \title{physician}
 \format{
 An object of class \code{list} of length 2.
+
+An object of class \code{list} of length 2.
 }
 \source{
 Deb, Partha, and Pravin K. Trivedi. "Demand for Medical Care by
@@ -13,12 +15,29 @@ the Elderly: A Finite Mixture Approach." Journal of Applied Econometrics,
 vol. 12, no. 3, 1997, pp. 313–336. JSTOR, www.jstor.org/stable/2285252.
 
 https://www.jstatsoft.org/article/view/v027i08
+
+Shimon Kogan, Dimitry Levin, Bryan R. Routledge, Jacob S. Sagi, and Noah A.
+Smith. "Predicting risk from financial reports with regression". In Proceedings of the
+North American Association for Computational Linguistics Human Language Technologies
+Conference, pages 272-280, 2009.
+
+http://www.cs.cmu.edu/~ark/10K/
+
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/regression.html#E2006-tfidf
+
+https://homes.cs.washington.edu/~nasmith/
 }
 \usage{
+physician
+
 physician
 }
 \description{
 Count outcome data set related to a paper by Deb et al. The variable
 \code{ofp} (physician office visits) have been used as the outcome here.
+
+From the source: "10-K reports from thousands of publicly traded U.S. companies,
+published in 1996–2006 and stock return volatility measurements in the twelve-month
+period before and the twelve-month period after each report, where available."
 }
 \keyword{datasets}

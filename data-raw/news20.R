@@ -9,7 +9,6 @@ download.file(
   temp_file
 )
 
-
 zz <- bzfile(temp_file)
 
 tmp <- e1071::read.matrix.csr(bzfile(temp_file), fac = TRUE)
